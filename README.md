@@ -101,9 +101,7 @@ python security_monitor.py
 python report_generator.py
 ```
 
-## 📸 Screenshots
 
-*[Add screenshots of your application's interface, reports, or dashboards here]*
 
 ## 📁 Project Structure
 
@@ -130,12 +128,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Orca Security for providing the API
-- All contributors who have helped shape this project
-
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers. 
