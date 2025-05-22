@@ -1,4 +1,4 @@
-# Cloud Security Monitor 🔒
+# Cloud Security Monitor
 
 A powerful Python-based cloud security monitoring system that integrates with Orca Security APIs to detect, analyze, and report cloud misconfigurations across AWS accounts. This tool helps security teams maintain a strong security posture by providing real-time insights and automated reporting capabilities.
 
@@ -6,11 +6,11 @@ A powerful Python-based cloud security monitoring system that integrates with Or
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📋 Overview
+## Overview
 
 Cloud Security Monitor is designed to automate the process of monitoring cloud security configurations and detecting potential misconfigurations in AWS environments. It leverages Orca Security's powerful API to provide comprehensive security insights and automated reporting capabilities.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend**: Python 3.8+
 - **API Integration**: Orca Security API
@@ -21,31 +21,31 @@ Cloud Security Monitor is designed to automate the process of monitoring cloud s
   - `pandas`: Data processing
   - `rich`: Console output formatting
 
-## ✨ Features
+## Features
 
-- 🔍 **Automated Detection**
+- **Automated Detection**
   - Real-time cloud misconfiguration scanning
   - Continuous security posture monitoring
   - Automated vulnerability detection
 
-- 📊 **Comprehensive Reporting**
+- **Comprehensive Reporting**
   - Detailed security findings reports
   - Risk score tracking and trending
   - Improvement recommendations
   - Customizable report formats
 
-- 🔐 **Security Features**
+- **Security Features**
   - Multi-account AWS monitoring
   - Secure credential management
   - Role-based access control
   - Audit logging
 
-- 🚀 **Performance**
+- **Performance**
   - Asynchronous API calls
   - Efficient data processing
   - Optimized report generation
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ Cloud Security Monitor is designed to automate the process of monitoring cloud s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cloud-security-monitor.git
+git clone https://github.com/deepakgoudasirsi/cloud-security-monitor.git
 cd cloud-security-monitor
 ```
 
@@ -115,16 +115,10 @@ cloud-security-monitor/
 └── README.md           # Project documentation
 ```
 
-## 🤝 Contributing
+---
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+## Contact
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+* **Deepak Gouda**
+  [GitHub @deepakgoudasirsi](https://github.com/deepakgoudasirsi)
+  [LinkedIn: Deepak Gouda](https://linkedin.com/in/deepakgoudasirsi)
